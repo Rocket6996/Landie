@@ -1,0 +1,10 @@
+{
+  "name": "landie",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "parcel index.html css/main.css",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+  }
+}
